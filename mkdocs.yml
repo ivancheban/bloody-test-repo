@@ -1,11 +1,11 @@
 #Project information
 site_name: Bloody-test-subject
-site_url: https://takashiwahrkeit.github.io/bloody-test-repo/
-site_author: Yevhen Maslov
+site_url: https://ivancheban.github.io/bloody-test-repo/
+site_author: Ivan Cheban
 theme: bootrstrap386
 #Repo info
-repo_name: bloody-test-repo
-repo_url: https://github.com/takashiwahrkeit/bloody-test-repo
+repo_name: ivancheban
+repo_url: https://github.com/ivancheban/bloody-test-repo
 
 nav:
 - Intro: index.md
